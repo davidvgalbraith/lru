@@ -1,0 +1,15 @@
+{
+  "name": "lru",
+  "version": "1.0.0",
+  "description": "I failed an interview question so I'm writing one of these",
+  "main": "lru-cache.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dave",
+  "license": "ISC"
+}
